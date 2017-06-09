@@ -1,1 +1,3 @@
 # Quality-specific-hand-vein-recognition
+Main functions for the paper "Quality-specific hand vein recognition system
+All codes are still under construction......
